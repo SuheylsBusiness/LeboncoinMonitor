@@ -1,0 +1,21 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate, br
+Accept-Language: de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+Cache-Control: max-age=0
+Connection: keep-alive
+Cookie: __Secure-Install=38654bc1-3a07-4e52-8526-02708756509b; __Secure-InstanceId=38654bc1-3a07-4e52-8526-02708756509b; ry_ry-l3b0nco_realytics=eyJpZCI6InJ5XzI5QzVBMjJBLTQwMjMtNEVDNi04OTdCLURFOTRBNkY0NTc5NyIsImNpZCI6bnVsbCwiZXhwIjoxNzAzMjg0ODczOTYzLCJjcyI6bnVsbH0%3D; didomi_token=eyJ1c2VyX2lkIjoiMTg1M2JmZjYtYzU2Zi02YjAzLTg2N2EtZmE4ODEyNzk0ZGVjIiwiY3JlYXRlZCI6IjIwMjItMTItMjJUMjI6NDE6MjAuNzk4WiIsInVwZGF0ZWQiOiIyMDIyLTEyLTIyVDIyOjQxOjIwLjc5OFoiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYzpsYmNmcmFuY2UiLCJjOnJldmxpZnRlci1jUnBNbnA1eCIsImM6ZGlkb21pIl19LCJwdXJwb3NlcyI6eyJlbmFibGVkIjpbInBlcnNvbm5hbGlzYXRpb25tYXJrZXRpbmciLCJwcml4IiwibWVzdXJlYXVkaWVuY2UiLCJleHBlcmllbmNldXRpbGlzYXRldXIiXX0sInZlbmRvcnNfbGkiOnsiZW5hYmxlZCI6WyJnb29nbGUiXX0sInZlcnNpb24iOjIsImFjIjoiRExXQkFBRUlBSXdBV1FCLWdHRkFQeUFra0JKWUVBd0lrZ1NrQXR5QnhBRHB3SFZnUU1BaW9CSE9DU2NFdFlLREFVSWdvdEJYT0N3VUZ0NExqQVhMQXdHQmhFREUwR1dvLkRMV0EtQUVJQUl3QV9RRENnSDVBU1NBa3NDQVlFU1FKU0FXNUE0Z0IwNERxd0lHQVJVQWpuQkpPQ1dzRkJnS0VRVVdncm5CWUtDMjhGeGdMbGdZREF3aUJpYURMVUFBQSJ9; euconsent-v2=CPkZCwAPkZCwAAHABBENCuCgAPLAAHLAAAAAIAtB_G_dTyPi-f59YvtwYQ1P4VQnoyACjgaNgwwJiRLBMI0EhmAIKAHqAAACIBAkICJAAQBlCAHAAAAA4IEAASMMAAAAIRAIIgCAAEAAAiJICABZCxAAAQAQgkwAABQAgAICABMgSDAAAAAAFAAAAAgAAAAAAAAAAAAAQAAAAAAAAggCACYatxAA2JY4E0gYRAAARhAEAUAIAKKAIWCAAgJEAAgjAAUYAAAAAoAAAAAAAAgBgAAAAEACEAAAADggEABAAgAAAAgEAgAAAAAQAAAYAAAAAABgAAAAAEABAAABQCAAAIAEABIEAAQAAAEAAAAAAAAAEAgAAAAAAAAAAAAAAACAGKAAwABBJcYABgACCS5AADAAEElw.flgADlgAAAAA; include_in_experiment=true; _pbjs_userid_consent_data=6807503869023383; _gcl_au=1.1.646851369.1671748881; dblockV=1; __gads=ID=0469a671d7de4836:T=1671748882:S=ALNI_MbSS1rfxbyOjjDfRyK2WfDT-q8xqg; _hjSessionUser_2783207=eyJpZCI6IjQ3MzI3NzZjLTgyYmEtNTA4Zi1iMDU5LTcwNWZiNDdiYjBhZCIsImNyZWF0ZWQiOjE2NzE3NDg4ODExNzMsImV4aXN0aW5nIjp0cnVlfQ==; _hjCachedUserAttributes=eyJhdHRyaWJ1dGVzIjp7InVzZXJfdHlwZSI6MH0sInVzZXJJZCI6bnVsbH0=; atidvisitor=%7B%22name%22%3A%22atidvisitor%22%2C%22val%22%3A%7B%22an%22%3A%22NaN%22%2C%22ac%22%3A%22%22%2C%22vrn%22%3A%22-562498-%22%7D%2C%22options%22%3A%7B%22path%22%3A%22%2F%22%2C%22session%22%3A34128000%2C%22end%22%3A34128000%7D%7D; __gpi=UID=00000b9717d1ba0e:T=1671748882:RT=1671791845:S=ALNI_MZone7jwI8FQddQ_jOWOym1udd-pw; trc_cookie_storage=taboola%2520global%253Auser-id%3D64406a82-1c1c-4acd-abd7-fb4c176933e1-tucta30bb61; ry_ry-l3b0nco_so_realytics=eyJpZCI6InJ5XzI5QzVBMjJBLTQwMjMtNEVDNi04OTdCLURFOTRBNkY0NTc5NyIsImNpZCI6bnVsbCwib3JpZ2luIjpmYWxzZSwicmVmIjpudWxsLCJjb250IjpudWxsLCJucyI6ZmFsc2V9; _hjIncludedInSessionSample=1; _hjSession_2783207=eyJpZCI6ImVkZTNlNjJiLTkyMGMtNDYyYy04YjQ4LTUxMmFmNDkwZGU1ZCIsImNyZWF0ZWQiOjE2NzE4MDA4MTI5NTMsImluU2FtcGxlIjp0cnVlfQ==; _hjAbsoluteSessionInProgress=0; dblockS=40; atauthority=%7B%22name%22%3A%22atauthority%22%2C%22val%22%3A%7B%22authority_name%22%3A%22default%22%2C%22visitor_mode%22%3A%22optin%22%7D%2C%22options%22%3A%7B%22end%22%3A%222024-01-22T13%3A16%3A49.509Z%22%2C%22path%22%3A%22%2F%22%7D%7D; utag_main=v_id:01853bff6b7e00023c610bd1b0c00506f0019067019b8$_sn:3$_ss:0$_st:1671803209522$_pn:10%3Bexp-session$ses_id:1671800811693%3Bexp-session; datadome=6iXGt_rkh-9fYLkYvZUPgjn9O0p4bAfJhTTjcAMlPQhO6~W7YkxXf08byEd5YwV8CfmKF21QB9iKKvzIsQeQVdfyJF5EIgqIqaz7yNUfdr46jNerL1YBDVsC_xBvkYQS; cto_bundle=XM0HnF9LVVBtWDlCSDMxMHhDT29ZMnVWdmJQTjZNWXJGakdTVEo3cWFwTVJHbTh2M2VBOFM3OURDUjlGUEF6R3U1THVzWEdVb3Vhck9xamJGSjRSRlo4ZThHbWMzTFFjcmx0VDBOd3AlMkJpdGVmY3FFQkRINVZ4JTJCbnNhODlZWTFmNnU5UFZ6dlRVT0ZOWFZLWjNxeHNMSnpHbm5nJTNEJTNE
+Host: www.leboncoin.fr
+If-None-Match: "awf1f2nsny8n77"
+sec-ch-device-memory: 8
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version-list: "Google Chrome";v="107.0.5304.107", "Chromium";v="107.0.5304.107", "Not=A?Brand";v="24.0.0.0"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-model: ""
+sec-ch-ua-platform: "Windows"
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36

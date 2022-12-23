@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Fizzler.Systems.HtmlAgilityPack" Version="1.2.1" />
+    <PackageReference Include="Google.Apis.Sheets.v4" Version="1.58.0.2826" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.46" />
+    <PackageReference Include="RestSharp" Version="106.11.4" />
+    <PackageReference Include="Telegram.Bot" Version="18.0.0" />
+  </ItemGroup>
+
+</Project>
